@@ -17,6 +17,6 @@ I'm a **Full-Stack Developer** with a strong background in **Computer Science**.
 - **Tools**: VSCode, IntelliJ, Git
 
 ## 📫 How to reach me:
-- 📝 [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/rodrigo-santos-2b7361219/))
-- 📨 Email: [mail](mailto:rodrigo.goncalvesantos@gmail.com)
+- 📝 [LinkedIn](https://www.linkedin.com/in/rodrigo-santos-2b7361219/)
+- 📨 [Email](mailto:rodrigo.goncalvesantos@gmail.com)
 - 💻 [Portfolio] *(coming soon)*
