@@ -1,6 +1,6 @@
 # Hi there, I'm Rodrigo Santos! 👋
 
-I'm a **Full-Stack Developer** with a strong background in **Computer Science**. I recently finished my master's degree, where I worked extensively on **monolith representations** and conducted experiments with **Mono2Micro**.
+I'm a **Full-Stack Developer** with a strong background in **Computer Science**.
 
 ## 💼 About Me:
 - 🔭 I'm currently working on my masters degree <em>Comparing Structure and Accesses MonolithRepresentations in Mono2Micro</em>
