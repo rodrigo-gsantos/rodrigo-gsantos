@@ -1,22 +1,61 @@
-# Hi there, I'm Rodrigo Santos! 👋
+# Hi there, I'm Rodrigo Santos 👋
 
-I'm a **Full-Stack Developer** with a strong background in **Computer Science** and a passion for **software engineering** and **systems architecture**.
+Backend Developer with a strong background in **Computer Science**, currently working in **FinTech** building **distributed systems** using **functional programming**.  
+I enjoy designing **reliable backend systems**, working with **scalable architectures**, and solving complex engineering problems.
 
-## 🎼 About Me:
-- 💻 Currently working as a **Full-Stack Developer**, developing and maintaining **APIs** with **Spring Boot** and **Java**.
-- 🎓 Completed my **Master’s in Computer Science**, where I researched **Monolith Representations in Mono2Micro**. My work focused on **analyzing code collection mechanisms** and **comparing them** to facilitate **migrating codebases from monoliths to microservices**.
-- 🌱 Constantly expanding my skills in **backend development**, **cloud computing**, and **DevOps**.
-- 🛠️ My go-to tech stack: **Java**, **Kotlin**, **Spring Boot**, **MySQL**, **PostgreSQL**, **Python**, **C**, **C++**, **Docker**, **React**, **VSCode**, **IntelliJ**, and **Git**.
+---
 
-## 🚀 Skills:
-- **Backend**: Java, Kotlin, Spring Boot
-- **Frontend**: React
-- **Databases**: MySQL, PostgreSQL
-- **DevOps & Cloud**: Docker
-- **Data Science & Scripting**: Python
-- **Tools**: VSCode, IntelliJ, Git, SourceTree
+## 💼 About Me
 
-## 📢 How to reach me:
-- 📝 [LinkedIn](https://www.linkedin.com/in/rodrigo-santos-2b7361219/)
-- 📨 [Email](mailto:rodrigo.goncalvesantos@gmail.com)
-- 💻 [Portfolio] *(Coming soon!)*
+- 💻 **Backend Developer in FinTech** working on a **trading platform for collateral management**
+- ⚙️ Developing **distributed systems** using **Scala** and **functional programming**
+- 🧩 Working heavily with **Cats** and **Cats Effect**
+- 🎓 **Master’s in Computer Science**
+  - Research: **Monolith Representations in Mono2Micro**
+  - Focused on **code collection mechanisms** and **analysis for migrating monoliths to microservices**
+- 🌱 Currently focused on **Functional Programming**, **Distributed Systems**, and **System Architecture**
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+![Scala](https://img.shields.io/badge/Scala-red?style=for-the-badge&logo=scala)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
+
+### Observability
+![Grafana](https://img.shields.io/badge/Grafana-orange?style=for-the-badge&logo=grafana)
+![Kibana](https://img.shields.io/badge/Kibana-yellow?style=for-the-badge&logo=elastic)
+
+### Tools
+![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea)
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+
+---
+
+## 🧠 Interests
+
+- Functional Programming
+- Distributed Systems
+- System Architecture
+- High Performance Backend Systems
+- Scalable Platforms
+
+---
+
+## 📫 Contact
+
+💼 LinkedIn  
+https://www.linkedin.com/in/rodrigo-santos-2b7361219  
+
+📧 Email  
+rodrigo.goncalvesantos@gmail.com
